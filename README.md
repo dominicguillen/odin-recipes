@@ -1,1 +1,2 @@
 # odin-recipes
+Simple .html website for dinner recipes the author makes very often. Project involves filling out the basic boiler-plate code for .html files, as well as the use of images, links, anchor elements, ordered and unordered lists, and header text
